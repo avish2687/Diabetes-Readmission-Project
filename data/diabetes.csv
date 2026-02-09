@@ -1,0 +1,5 @@
+age,gender,time_in_hospital,num_medications,num_procedures,A1Cresult,readmitted
+45,Male,3,10,1,Norm,NO
+63,Female,7,18,3,>7,<30
+29,Male,2,6,0,Norm,NO
+72,Female,10,25,4,>8,<30

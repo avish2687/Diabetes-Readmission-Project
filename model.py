@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, roc_auc_score
-from preprocess import preprocess_data
+from Preprocess import preprocess_data
 import joblib
 
 df = pd.read_csv("data/diabetes.csv")
