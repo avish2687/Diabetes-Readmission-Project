@@ -1,0 +1,4 @@
+,count,positive_rate,precision,recall,f1
+Young (<50),15969.0,0.0,0.0,0.0,0.0
+Middle (50–70),65807.0,0.0,0.0,0.0,0.0
+Senior (>70),19990.0,0.0,0.0,0.0,0.0

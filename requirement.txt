@@ -2,7 +2,7 @@ pandas
 numpy
 scikit-learn
 joblib
-streamlit
+fastapi
+uvicorn
 shap
 matplotlib
-reportlab
